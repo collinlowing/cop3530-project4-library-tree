@@ -1,0 +1,60 @@
+Artificial Intelligence
+Stuart Russell
+AI & ML
+Paperback
+Pearson Education
+1
+Computer Networking
+James Kurose
+Networking
+Hardcover
+Pearson Education
+1
+Operating System Concepts
+Abraham Silberschatz
+OS
+Kindle
+Wiley
+1
+Practical Malware Analysis
+Michael Sikorski
+Cybersecurity
+Kindle
+No Starch Press
+2
+Formal Languages and Automata
+Peter Linz
+TOC
+Paperback
+Jones & Bartlett Learning
+3
+Compilers
+Alfred V. Aho  
+Compilers
+Hardcover
+Pearson Education
+`
+C Programming Language
+Brian W. Kernighan
+Programming
+Paperback
+Prentice Hall
+2
+C++ Programming Language
+Bjarne Stroustrup
+Programming
+Paperback
+Addison-Wesley
+1
+Fundamentals Of Database Systems
+Ramez Elmasri
+DBMS
+Paperback
+Pearson Education
+1
+Computer Organization
+David A. Patterson
+CompOrg
+Paperback
+Morgan Kaufmann
+1
